@@ -1,1 +1,7 @@
-# service
+STRIPE_SECRET_KEY=sk_test_xxxxxxxxxxxx
+STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxxxx
+PRICE_STARTER=price_xxxxxxxxxxxx
+PRICE_PRO=price_xxxxxxxxxxxx
+PRICE_EMPIRE=price_xxxxxxxxxxxx
+FRONTEND_URL=http://localhost:3000
+PORT=3001
